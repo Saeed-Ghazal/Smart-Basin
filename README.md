@@ -4,16 +4,15 @@ An innovative Smart Basin designed for the **IEEE Pitchinno 2025** competition. 
 
 ---
 
-## Images
+## Smart Basin Images
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+
   <img src="https://github.com/Saeed-Ghazal/Smart-Basin/blob/main/Image%202025-11-22%20at%2016.24.33_682d78d1.jpg?raw=true" alt="Smart Basin 1" style="width: 300px; height: auto;" />
   <img src="https://github.com/Saeed-Ghazal/Smart-Basin/blob/main/Image%202025-11-22%20at%2016.24.33_c474761a.jpg?raw=true" alt="Smart Basin 2" style="width: 300px; height: auto;" />
   <div style="text-align: center;">
     <img src="https://github.com/Saeed-Ghazal/Smart-Basin/blob/main/Screenshot%202025-11-22%20161850.png?raw=true" alt="Smart Basin App" style="width: 300px; height: auto;" />
     <p><em>Mobile App Interface for controlling the Smart Basin</em></p>
-  </div>
-</div>
+
 
 ---
 
